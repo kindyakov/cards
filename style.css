@@ -229,7 +229,7 @@ h6 {
 .item-rating_label:hover,
 .item-rating_label:hover~.item-rating_label,
 .item-rating_label:checked~.item-rating_label:hover {
-  color: rgba(255, 255, 0, 0.63);
+  color: rgb(255, 255, 0);
 }
 
 .item-title_link {
